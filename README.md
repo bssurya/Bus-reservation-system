@@ -1,16 +1,25 @@
 # Bus-reservation-system
 Project Participation: 
+
 •	B S Surya                                       23ce02013
+
 •	Tangudu komaleshwar                             23ce01058
+
 •	Mallepally Rajkumar                             23cs01036
+
 •	Vansh Raj Gupta                                 23ce01061
 
 Introduction:
+
 The Bus Reservation System is a software application designed to facilitate the booking and management of seats on a bus. This system allows passengers to book seats for their journeys, cancel bookings if necessary, and view seat availability and current bookings. The system is developed in C programming language.
 
 Motivation Behind Choosing the Bus Reservation System Project:
-Interest in Transportation Industry: Our fascination with the transportation industry, particularly the intricacies involved in managing passenger logistics, played a significant role in selecting this project.
-Desire for Practical Application: Our value projects that have real-world applications and can make a tangible difference in people's lives. The Bus Reservation System project aligns perfectly with this mindset, as it addresses a common need for efficient seat booking and management in the bus transportation sector.
+
+Interest in Transportation Industry: 
+Our fascination with the transportation industry, particularly the intricacies involved in managing passenger logistics, played a significant role in selecting this project.
+
+Desire for Practical Application: 
+Our value projects that have real-world applications and can make a tangible difference in people's lives. The Bus Reservation System project aligns perfectly with this mindset, as it addresses a common need for efficient seat booking and management in the bus transportation sector.
 
 Functionality:
 
