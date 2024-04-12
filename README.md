@@ -13,10 +13,17 @@ Interest in Transportation Industry: Our fascination with the transportation ind
 Desire for Practical Application: Our value projects that have real-world applications and can make a tangible difference in people's lives. The Bus Reservation System project aligns perfectly with this mindset, as it addresses a common need for efficient seat booking and management in the bus transportation sector.
 
 Functionality:
-Booking Seats: Passengers can book seats by providing their name, preferred seat class, food option, starting place, destination, and starting time. The system checks the availability of the selected seat and confirms the booking if the seat is available.
-Cancelling Bookings: Passengers can cancel their bookings by entering the seat number they want to cancel. The system checks if the seat is booked and cancels the booking if found, making the seat available for others.
-Displaying Seat Availability: The system displays the current status of all seats, indicating whether each seat is available or booked.
-Displaying Current Bookings: Passengers and administrators can view the list of current bookings, including details such as seat number, passenger name, seat class, food option, starting place, destination, and starting time.
+
+* Booking Seats: Passengers can book seats by providing their name, preferred seat class, food option, starting place, destination, and starting time. The system checks the availability of the selected seat and confirms the booking if the seat is available.
+
+
+* Cancelling Bookings: Passengers can cancel their bookings by entering the seat number they want to cancel. The system checks if the seat is booked and cancels the booking if found, making the seat available for others.
+
+
+* Displaying Seat Availability: The system displays the current status of all seats, indicating whether each seat is available or booked.
+  
+
+* Displaying Current Bookings: Passengers and administrators can view the list of current bookings, including details such as seat number, passenger name, seat class, food option, starting place, destination, and starting time.
 
 Implementation:
 Data Structures: The system utilizes structures to represent bookings, including seat number, passenger name, seat class, food option, starting place, destination, and starting time. Enums are used to define constants for seat classes and food options.
